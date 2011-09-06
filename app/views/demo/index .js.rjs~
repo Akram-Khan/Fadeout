@@ -1,0 +1,6 @@
+$(function(){
+
+	$("#box").click(function()
+		{$this.fadeout(4000);
+		});
+});
